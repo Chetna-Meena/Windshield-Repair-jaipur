@@ -1,0 +1,74 @@
+# 🚗 Windshield Repair Jaipur
+
+A simple and responsive website for windshield repair and replacement services in Jaipur.
+
+---
+
+## 🌟 Features
+
+* Clean and modern UI
+* Mobile-friendly design
+* Click-to-call functionality 📞
+* Service listing section
+* Customer reviews section
+* Call-to-action buttons
+
+---
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+
+---
+
+## 📱 Key Functionality
+
+* Users can directly call using:
+
+  ```html
+  <a href="tel:1234567890">Call Now</a>
+  ```
+* Works smoothly on mobile devices
+
+---
+
+## 📂 Project Structure
+
+* index.html → Main webpage
+* page.css → Styling (if used)
+
+---
+
+## 📍 Location
+
+C-15 Jan Path, Nirman Nagar, Jaipur
+
+---
+
+## 🚀 How to Run
+
+1. Download or clone the repository
+2. Open `index.html` in any browser
+
+---
+
+## 📌 Future Improvements
+
+* Add Google Maps integration
+* Add WhatsApp chat button
+* Add online booking form
+* Improve UI with animations
+
+---
+
+## 👩‍💻 Author
+
+Chetna Meena
+
+---
+
+## ⭐ Feedback
+
+If you like this project, consider giving it a star ⭐
+Updated by Chetna
